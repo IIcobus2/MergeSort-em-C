@@ -1,2 +1,1 @@
-# PC1
-Algumas atividades de PC1
+# Merge Sort em C
